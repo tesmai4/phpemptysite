@@ -1,3 +1,8 @@
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
 <?php
 
 require(__DIR__.'/init.php');
@@ -26,3 +31,5 @@ try {
 htmlFooter();
 
 ?>
+</body>
+</html>
